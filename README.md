@@ -29,3 +29,16 @@ Application:
 1. Used in malls or shopping complex.
 2. Used in big companies where large employees work.
 
+# SMART IRRIGATION SYSTEM
+
+Objective: To develop a automatic watering system for the crops depending upon the moisture level in ground using Tinkercad.
+
+Components:
+1. Arduino Uno R3
+2.  DC Motor
+3. Temperature Sensor [TMP36]
+4. H-bridge Motor Driver
+
+Application:
+Automatic irrigation system for crops.
+
