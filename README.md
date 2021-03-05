@@ -89,3 +89,13 @@ Application:
 1. Used in smart homes.
 2. Restaurants and hospitals.
 
+# SMART RAINFALL MEASURMENT SYSTEM
+
+Objective: To create a smart rainfall measuring system using Tinkercad simulator.
+
+Components:
+1. Arduino Uno R3
+2. Ultrasonic Distance Sensor
+3. LCD 16 x 2
+4. 1 kΩ Resistor
+
