@@ -58,3 +58,18 @@ Application:
 2. Jewellery shops.
 3. banks.
 
+# SMART WATER TANK LEVEL MONITORING SYSTEM
+
+Objective: To develop a system to indicate water tank overflow and automatic pumping of water in water tank at low levels using Arduino.
+
+Components:
+1. Arduino Uno R3
+2. Ultrasonic Distance Sensor
+3. Piezo
+4. DC Motor
+5. H-bridge Motor Driver
+
+Application:
+1. Water tank at house and apartments.
+2. Aqua industries.
+
