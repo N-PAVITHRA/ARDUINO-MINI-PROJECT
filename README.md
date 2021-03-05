@@ -42,3 +42,19 @@ Components:
 Application:
 Automatic irrigation system for crops.
 
+# SMART THEFT ALARM SYSTEM
+
+Objective: To create a Theft alarm using Arduino with Tinkercad simulation tool.
+
+Components:
+1. Arduino Uno R3
+2. 3.4552692355520094 , -192.90473668295633 , -207.15842531224237 PIR Sensor
+3. Piezo
+4. Red LED
+5. 1 kΩ Resistor
+
+Application:
+1. Living Home.
+2. Jewellery shops.
+3. banks.
+
