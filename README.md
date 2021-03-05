@@ -16,9 +16,8 @@ Application:
 2. Detect toxic gases in environment.
 
 # SMART GATE SYSTEM
-Objective:
 
- To create a Smart Gate System(Automatic opening and closing gate) using Tinkercad.
+Objective: To create a Smart Gate System(Automatic opening and closing gate) using Tinkercad.
 When a person comes near to the gate, it open automatically at a particular angle and closes when the person leaves. 
 
 Components:
