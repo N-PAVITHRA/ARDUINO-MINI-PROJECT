@@ -1,4 +1,4 @@
-# TINKERCAD-MINI-PROJECT
+# ARDUINO-MINI-PROJECT
 Arduino mini projects using Tinkercad Simulation Tool
 
 # ENVIRONMENT MONIORTING SYSTEM
