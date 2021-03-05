@@ -73,3 +73,19 @@ Application:
 1. Water tank at house and apartments.
 2. Aqua industries.
 
+# TEMPERATURE BASED FAN SPEED CONTROLLER
+
+Objective: To create a automatic fan speed control based on temperature using Arduino
+
+Components:
+1. Arduino Uno R3
+2. DC Motor
+3. 250 kΩ Potentiometer
+4. Temperature Sensor [TMP36]
+5. LCD 16 x 2
+6. 1 kΩ Resistor
+
+Application:
+1. Used in smart homes.
+2. Restaurants and hospitals.
+
